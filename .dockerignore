@@ -1,0 +1,7 @@
+.git
+.venv
+.mypy_cache
+.ipynb_checkpoints
+data
+*.ipynb
+.DS_Store
